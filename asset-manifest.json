@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Victorvikson1996/Girlfriennsday/static/css/main.f273d238.css",
+    "main.js": "/Victorvikson1996/Girlfriennsday/static/js/main.268fd069.js",
+    "static/js/453.afd9c442.chunk.js": "/Victorvikson1996/Girlfriennsday/static/js/453.afd9c442.chunk.js",
+    "static/media/2.png": "/Victorvikson1996/Girlfriennsday/static/media/2.abc65e4f5e342358b8c9.png",
+    "static/media/5.png": "/Victorvikson1996/Girlfriennsday/static/media/5.1df995e20fefbbef9dbb.png",
+    "static/media/3.jpg": "/Victorvikson1996/Girlfriennsday/static/media/3.3f2229acf2b3f79599f8.jpg",
+    "static/media/4.jpg": "/Victorvikson1996/Girlfriennsday/static/media/4.40dd0b590d374f4444d6.jpg",
+    "static/media/1.jpg": "/Victorvikson1996/Girlfriennsday/static/media/1.dc7b137aa0baee43b373.jpg",
+    "index.html": "/Victorvikson1996/Girlfriennsday/index.html",
+    "main.f273d238.css.map": "/Victorvikson1996/Girlfriennsday/static/css/main.f273d238.css.map",
+    "main.268fd069.js.map": "/Victorvikson1996/Girlfriennsday/static/js/main.268fd069.js.map",
+    "453.afd9c442.chunk.js.map": "/Victorvikson1996/Girlfriennsday/static/js/453.afd9c442.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f273d238.css",
+    "static/js/main.268fd069.js"
+  ]
+}
